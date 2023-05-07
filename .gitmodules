@@ -1,0 +1,3 @@
+[submodule "exercicio_deploy"]
+	path = exercicio_deploy
+	url = git@github.com:pullynnhah/exercicio_deploy.git
